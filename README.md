@@ -1,4 +1,6 @@
 mpack
 =====
 
-兼容msgpack协议的arduino序列化库
+兼容msgpack specification的arduino序列化库
+
+https://github.com/msgpack/msgpack/blob/master/spec.md
